@@ -17,6 +17,5 @@ Soy Técnico Superior en Desarrollo de Software y actualmente trabajo como progr
 
 ### Contacto
 - **LinkedIn:** [https://www.linkedin.com/in/facundo-genaro-luque-valiente/](#)
-- **Email:** faculuq@gmail.com
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en algún proyecto.
