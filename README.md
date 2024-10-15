@@ -10,7 +10,7 @@ Soy Técnico Superior en Desarrollo de Software y actualmente trabajo como progr
 ### Tecnologías y Herramientas
 - **Frontend:** Angular, HTML, CSS, JavaScript, Typescript
 - **Backend:** .NET, C#
-- **Bases de datos:** SQL Server, MySQL
+- **Bases de datos:** SQL Server, MySQL, Oracle
 - **Otros:** Docker, Azure
 
 
